@@ -1,3 +1,4 @@
 # zoetrope
 
-has_legs = False
+def createURLs(base, opts):
+    print base, opts
